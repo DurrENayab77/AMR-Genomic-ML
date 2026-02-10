@@ -1,0 +1,391 @@
+,Taxon ID,Genome ID,Genome Name,Antibiotic,Resistant Phenotype,GenBank Accessions,assembly_id
+0,562,562.89132,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIL000000000,CAJSIL
+1,562,562.81134,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJA000000000,CAJSJA
+2,562,562.2232,Escherichia coli strain 44_Esco_HA-DE,amoxicillin,Resistant,NXOT00000000,NXOT
+3,562,562.8915,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKE000000000,CAJSKE
+4,562,562.89178,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHV000000000,CAJSHV
+5,562,562.89094,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIP000000000,CAJSIP
+6,562,562.122357,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSLJ000000000,CAJSLJ
+7,562,562.152636,Escherichia coli AR3005,amoxicillin,Resistant,JBDOII000000000,JBDOII
+8,562,562.90257,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSLB000000000,CAJSLB
+9,562,562.81054,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKU000000000,CAJSKU
+10,562,562.81054,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIE000000000,CAJSIE
+11,562,562.21632,Escherichia coli strain MOD1-EC6547,amoxicillin,Susceptible,NLVC00000000,NLVC
+12,562,562.152834,Escherichia coli fly-1162,amoxicillin,Resistant,JBEERW000000000,JBEERW
+13,562,562.50553,Escherichia coli strain 3,amoxicillin,Resistant,CAJZPU000000000,CAJZPU
+14,562,562.135435,Escherichia coli CB-2023-14,amoxicillin,Resistant,JAVVMN000000000,JAVVMN
+15,562,562.13326,Escherichia coli S2,amoxicillin,Resistant,JAUDST000000000,JAUDST
+16,562,562.80991,Escherichia coli strain DFI.3.122,amoxicillin,Susceptible,JAJDLQ000000000,JAJDLQ
+17,562,562.89055,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIY000000000,CAJSIY
+18,562,562.90231,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSLK000000000,CAJSLK
+19,562,562.86873,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGR000000000,CAJSGR
+20,562,562.86855,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKE000000000,CAJSKE
+21,562,562.79281,Escherichia coli strain MS10956,amoxicillin,Resistant,JAHQAH000000000,JAHQAH
+22,562,562.8695,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKG000000000,CAJSKG
+23,562,562.81137,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHF000000000,CAJSHF
+24,562,562.89094,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKW000000000,CAJSKW
+25,562,562.102746,Escherichia coli c83538,amoxicillin,Susceptible,JAGMGW000000000,JAGMGW
+26,562,562.86944,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJY000000000,CAJSJY
+27,562,562.90225,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSLT000000000,CAJSLT
+28,562,562.89082,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHR000000000,CAJSHR
+29,562,562.81144,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CABWIN000000000,CABWIN
+30,562,562.81097,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHZ000000000,CAJSHZ
+31,562,562.60357,Escherichia coli strain GZB8C53M,amoxicillin,Resistant,JABEZC000000000,JABEZC
+32,562,562.51679,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJG000000000,CAJSJG
+33,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKR000000000,CAJSKR
+34,562,562.34461,Escherichia coli strain 962A,amoxicillin,Susceptible,UIKM00000000,UIKM
+35,562,562.101382,Escherichia coli 237,amoxicillin,Resistant,JBJXSD000000000,JBJXSD
+36,562,562.86545,Escherichia coli strain 4838,amoxicillin,Resistant,JAJGPE000000000,JAJGPE
+37,316435,316435.63,Escherichia coli Nissle 1917,amoxicillin,Susceptible,CP082951,CP
+38,562,562.89035,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKN000000000,CAJSKN
+39,562,562.5049,Escherichia coli strain T38-J53-mcr3-tc strain not applicable,amoxicillin,Resistant,VIAM00000000,VIAM
+40,562,562.122352,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSIA000000000,CAJSIA
+41,562,562.13879,Escherichia coli blood,amoxicillin,Resistant,CAVMCR000000000,CAVMCR
+42,562,562.89094,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIN000000000,CAJSIN
+43,562,562.30893,Escherichia coli strain A96,amoxicillin,Resistant,NSBI00000000,NSBI
+44,562,562.89166,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSLG000000000,CAJSLG
+45,562,562.86946,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKA000000000,CAJSKA
+46,562,562.86862,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHS000000000,CAJSHS
+47,562,562.86979,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJX000000000,CAJSJX
+48,562,562.86862,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGW000000000,CAJSGW
+49,562,562.89166,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJM000000000,CAJSJM
+50,562,562.152659,Escherichia coli UTAK-18,amoxicillin,Resistant,CP157134,CP
+51,562,562.89055,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHV000000000,CAJSHV
+52,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIQ000000000,CAJSIQ
+53,562,562.79118,Escherichia coli strain E16,amoxicillin,Resistant,JAINTV000000000,JAINTV
+54,562,562.86883,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIM000000000,CAJSIM
+55,562,562.110892,Escherichia coli DVT1272,amoxicillin,Resistant,JAOSDR000000000,JAOSDR
+56,562,562.81063,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWJS000000000,CABWJS
+57,562,562.89035,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJP000000000,CAJSJP
+58,562,562.7542,Escherichia coli,amoxicillin,Resistant,CDQU00000000,CDQU
+59,562,562.81144,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHL000000000,CAJSHL
+60,562,562.58755,Escherichia coli strain 117,amoxicillin,Resistant,MPGS00000000,MPGS
+61,562,562.81116,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJL000000000,CAJSJL
+62,562,562.86959,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLN000000000,CAJSLN
+63,562,562.8018,Escherichia coli strain 20,amoxicillin,Resistant,JABFNV000000000,JABFNV
+64,562,562.66727,Escherichia coli strain BA1529,amoxicillin,Resistant,JACUXF000000000,JACUXF
+65,562,562.87047,Escherichia coli strain 78,amoxicillin,Resistant,JAIZTQ000000000,JAIZTQ
+66,562,562.86882,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLJ000000000,CAJSLJ
+67,562,562.112467,Escherichia coli 2011-O26,amoxicillin,Susceptible,JAOWOZ000000000,JAOWOZ
+68,562,562.86964,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIX000000000,CAJSIX
+69,562,562.89166,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSID000000000,CAJSID
+70,562,562.81112,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJE000000000,CAJSJE
+71,562,562.90306,Escherichia coli Fecal samples,amoxicillin,Resistant,CAJSIH000000000,CAJSIH
+72,562,562.90312,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSKT000000000,CAJSKT
+73,562,562.81162,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGH000000000,CAJSGH
+74,562,562.81081,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWIO000000000,CABWIO
+75,562,562.89068,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKS000000000,CAJSKS
+76,562,562.86952,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLQ000000000,CAJSLQ
+77,562,562.138785,Escherichia coli stool,amoxicillin,Resistant,CAVMDV000000000,CAVMDV
+78,562,562.115501,Escherichia coli ST940,amoxicillin,Resistant,CANDXO000000000,CANDXO
+79,562,562.86929,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJM000000000,CAJSJM
+80,562,562.81083,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKA000000000,CAJSKA
+81,562,562.89147,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWIP000000000,CABWIP
+82,562,562.122354,Escherichia coli Fecal samples,amoxicillin,Resistant,CANUDY000000000,CANUDY
+83,562,562.86932,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKN000000000,CAJSKN
+84,562,562.86873,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJS000000000,CAJSJS
+85,562,562.15271,Escherichia coli 220510152912,amoxicillin,Resistant,JAQFKQ000000000,JAQFKQ
+86,941323,941323.1,Escherichia coli VR50,amoxicillin,Resistant,CP011143,CP
+87,562,562.86888,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHY000000000,CAJSHY
+88,562,562.8909,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHH000000000,CAJSHH
+89,562,562.9602,Escherichia coli EC24,amoxicillin,Resistant,JAVSRJ000000000,JAVSRJ
+90,562,562.36455,Escherichia coli strain PNUSAE019542,amoxicillin,Susceptible,RMME00000000,RMME
+91,562,562.81144,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJY000000000,CAJSJY
+92,562,562.81083,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSII000000000,CAJSII
+93,562,562.79282,Escherichia coli strain MS10984,amoxicillin,Susceptible,JAHQAG000000000,JAHQAG
+94,562,562.89116,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIL000000000,CAJSIL
+95,562,562.81071,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHE000000000,CAJSHE
+96,562,562.89035,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CABHPI000000000,CABHPI
+97,562,562.81134,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWHW000000000,CABWHW
+98,562,562.129275,Escherichia coli 86,amoxicillin,Resistant,JAUKXA000000000,JAUKXA
+99,562,562.81054,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKT000000000,CAJSKT
+100,562,562.86869,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHG000000000,CAJSHG
+101,562,562.89035,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKK000000000,CAJSKK
+102,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKO000000000,CAJSKO
+103,562,562.90176,Escherichia coli Fecal samples,amoxicillin,Resistant,CAJSIF000000000,CAJSIF
+104,562,562.89178,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKR000000000,CAJSKR
+105,562,562.81084,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIA000000000,CAJSIA
+106,562,562.81081,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJZ000000000,CAJSJZ
+107,562,562.89178,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CABWJQ000000000,CABWJQ
+108,562,562.86924,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJF000000000,CAJSJF
+109,562,562.90296,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSJE000000000,CAJSJE
+110,562,562.135231,Escherichia coli UKGmKnR,amoxicillin,Susceptible,JANPXE000000000,JANPXE
+111,562,562.81071,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHN000000000,CAJSHN
+112,562,562.138738,Escherichia coli blood,amoxicillin,Resistant,CAVMCU000000000,CAVMCU
+113,562,562.96138,Escherichia coli L00022928,amoxicillin,Resistant,JAJPSR000000000,JAJPSR
+114,562,562.86952,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHV000000000,CAJSHV
+115,562,562.89124,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLR000000000,CAJSLR
+116,562,562.89064,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABHPJ000000000,CABHPJ
+117,562,562.89178,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJE000000000,CAJSJE
+118,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGQ000000000,CAJSGQ
+119,562,562.89178,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKZ000000000,CAJSKZ
+120,562,562.36194,Escherichia coli strain 3991-1,amoxicillin,Susceptible,QYUY00000000,QYUY
+121,562,562.89154,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJI000000000,CAJSJI
+122,562,562.16348,Escherichia coli strain 9,amoxicillin,Resistant,CAJZNO000000000,CAJZNO
+123,562,562.86964,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLD000000000,CAJSLD
+124,562,562.90291,Escherichia coli Fecal samples,amoxicillin,Susceptible,CANUEF000000000,CANUEF
+125,562,562.67083,Escherichia coli strain UoL_13,amoxicillin,Resistant,JADAPI000000000,JADAPI
+126,562,562.81116,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGN000000000,CAJSGN
+127,562,562.7516,Escherichia coli,amoxicillin,Susceptible,CXXG00000000,CXXG
+128,562,562.60316,Escherichia coli strain C63,amoxicillin,Resistant,JAANLZ000000000,JAANLZ
+129,562,562.89147,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLD000000000,CAJSLD
+130,562,562.86855,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIR000000000,CAJSIR
+131,562,562.115072,Escherichia coli ID1000002,amoxicillin,Resistant,JANTBX000000000,JANTBX
+132,562,562.86098,Escherichia coli strain MS10707,amoxicillin,Resistant,JAHQCN000000000,JAHQCN
+133,562,562.811,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGQ000000000,CAJSGQ
+134,562,562.86959,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJD000000000,CAJSJD
+135,562,562.8695,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHQ000000000,CAJSHQ
+136,562,562.86934,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJA000000000,CAJSJA
+137,562,562.8102,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSLJ000000000,CAJSLJ
+138,562,562.86869,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIO000000000,CAJSIO
+139,562,562.81083,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGM000000000,CAJSGM
+140,562,562.90992,Escherichia coli KCJ3K685,amoxicillin,Resistant,JADCNZ000000000,JADCNZ
+141,562,562.87942,Escherichia coli strain MS10851,amoxicillin,Resistant,JAHQBP000000000,JAHQBP
+142,562,562.90305,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSKM000000000,CAJSKM
+143,562,562.47972,Escherichia coli strain LVSTRB157,amoxicillin,Resistant,SQGX00000000,SQGX
+144,562,562.87749,Escherichia coli strain S209-1,amoxicillin,Resistant,JAINSZ000000000,JAINSZ
+145,562,562.8689,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKH000000000,CAJSKH
+146,562,562.81071,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGE000000000,CAJSGE
+147,83334,83334.242,Escherichia coli O157:H7 strain 2159,amoxicillin,Resistant,"CP017438,CP017439",CP
+148,562,562.81162,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHM000000000,CAJSHM
+149,562,562.108754,Escherichia coli SX-33,amoxicillin,Susceptible,JANDBO000000000,JANDBO
+150,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGX000000000,CAJSGX
+151,562,562.89178,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGS000000000,CAJSGS
+152,562,562.8616,Escherichia coli strain 1684-49,amoxicillin,Resistant,JAHCWL000000000,JAHCWL
+153,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIF000000000,CAJSIF
+154,562,562.8909,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHI000000000,CAJSHI
+155,562,562.90221,Escherichia coli Fecal samples,amoxicillin,Susceptible,CANUDO000000000,CANUDO
+156,562,562.81059,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGK000000000,CAJSGK
+157,562,562.86952,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHZ000000000,CAJSHZ
+158,562,562.86957,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGT000000000,CAJSGT
+159,562,562.89124,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSII000000000,CAJSII
+160,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKM000000000,CAJSKM
+161,562,562.89147,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLI000000000,CAJSLI
+162,562,562.59236,Escherichia coli strain SC392,amoxicillin,Resistant,QOLS00000000,QOLS
+163,562,562.89154,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHT000000000,CAJSHT
+164,562,562.86878,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHF000000000,CAJSHF
+165,562,562.81153,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGZ000000000,CAJSGZ
+166,562,562.138799,Escherichia coli blood,amoxicillin,Resistant,CAVMCZ000000000,CAVMCZ
+167,562,562.70531,Escherichia coli strain RIVM_C018404,amoxicillin,Resistant,CP068803,CP
+168,562,562.108913,Escherichia coli 2029,amoxicillin,Resistant,JANTMA000000000,JANTMA
+169,562,562.86862,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJE000000000,CAJSJE
+170,562,562.108762,Escherichia coli SX-25,amoxicillin,Susceptible,JANDBQ000000000,JANDBQ
+171,562,562.89094,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGQ000000000,CAJSGQ
+172,562,562.89132,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGM000000000,CAJSGM
+173,562,562.89035,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHH000000000,CAJSHH
+174,562,562.135421,Escherichia coli UPEC36_R.R_LAU,amoxicillin,Resistant,JAVJIL000000000,JAVJIL
+175,562,562.86862,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHF000000000,CAJSHF
+176,562,562.89154,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSLO000000000,CAJSLO
+177,562,562.24828,Escherichia coli,amoxicillin,Resistant,CXXD00000000,CXXD
+178,562,562.8102,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKT000000000,CAJSKT
+179,562,562.79058,Escherichia coli strain P30-79,amoxicillin,Resistant,JAHVHE000000000,JAHVHE
+180,562,562.8102,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGN000000000,CAJSGN
+181,562,562.86969,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWKD000000000,CABWKD
+182,562,562.89068,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWJI000000000,CABWJI
+183,562,562.81233,Escherichia coli strain 1,amoxicillin,Susceptible,FUVJ00000000,FUVJ
+184,562,562.101508,Escherichia coli 100,amoxicillin,Resistant,JANTNN000000000,JANTNN
+185,562,562.89166,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKJ000000000,CAJSKJ
+186,562,562.24857,Escherichia coli,amoxicillin,Resistant,CXWT00000000,CXWT
+187,562,562.89175,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKV000000000,CAJSKV
+188,562,562.86067,Escherichia coli strain MS10857,amoxicillin,Resistant,JAHQBJ000000000,JAHQBJ
+189,562,562.89055,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHB000000000,CAJSHB
+190,562,562.86873,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKQ000000000,CAJSKQ
+191,562,562.122355,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSIT000000000,CAJSIT
+192,562,562.86989,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHF000000000,CAJSHF
+193,562,562.81097,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGI000000000,CAJSGI
+194,562,562.81059,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKQ000000000,CAJSKQ
+195,562,562.81144,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIQ000000000,CAJSIQ
+196,562,562.86916,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHG000000000,CAJSHG
+197,511145,511145.696,Escherichia coli str. K-12 substr. MG1655,amoxicillin,Susceptible,CATIEJ000000000,CATIEJ
+198,562,562.90257,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSJT000000000,CAJSJT
+199,562,562.81031,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJO000000000,CAJSJO
+200,562,562.81178,Escherichia coli strain 17,amoxicillin,Resistant,CAJZNS000000000,CAJZNS
+201,562,562.90036,Escherichia coli R17-K7/2,amoxicillin,Resistant,JAKFUB000000000,JAKFUB
+202,562,562.60291,Escherichia coli strain C21,amoxicillin,Resistant,RJDJ00000000,RJDJ
+203,562,562.138788,Escherichia coli stool,amoxicillin,Susceptible,CAVMEW000000000,CAVMEW
+204,562,562.135045,Escherichia coli EC18,amoxicillin,Resistant,JBAJZO000000000,JBAJZO
+205,562,562.85686,Escherichia coli strain C12-3,amoxicillin,Susceptible,JAINEH000000000,JAINEH
+206,562,562.138749,Escherichia coli blood,amoxicillin,Resistant,CAVMDR000000000,CAVMDR
+207,562,562.108587,Escherichia coli SC NM EMB KAN 2,amoxicillin,Resistant,JANGQG000000000,JANGQG
+208,562,562.122352,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSGZ000000000,CAJSGZ
+209,562,562.86949,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGU000000000,CAJSGU
+210,562,562.5374,Escherichia coli blood-09-0428,amoxicillin,Resistant,JSRO00000000,JSRO
+211,562,562.81116,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIK000000000,CAJSIK
+212,562,562.89175,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLJ000000000,CAJSLJ
+213,562,562.90216,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSIR000000000,CAJSIR
+214,562,562.139307,Escherichia coli 97HMPL652,amoxicillin,Susceptible,JAOQLI000000000,JAOQLI
+215,562,562.206,Escherichia coli strain MOD1-EC406,amoxicillin,Susceptible,NKEN00000000,NKEN
+216,562,562.74435,Escherichia coli strain 50043,amoxicillin,Resistant,JADIDD000000000,JADIDD
+217,562,562.60403,Escherichia coli strain K22V1,amoxicillin,Susceptible,WERD00000000,WERD
+218,562,562.90284,Escherichia coli Fecal samples,amoxicillin,Resistant,CAJSKN000000000,CAJSKN
+219,562,562.89154,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIR000000000,CAJSIR
+220,562,562.86944,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIC000000000,CAJSIC
+221,562,562.89092,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKY000000000,CAJSKY
+222,562,562.86991,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJA000000000,CAJSJA
+223,562,562.86952,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIS000000000,CAJSIS
+224,562,562.33773,Escherichia coli strain CRE16,amoxicillin,Resistant,PXLG00000000,PXLG
+225,562,562.89082,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHT000000000,CAJSHT
+226,562,562.811,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHL000000000,CAJSHL
+227,562,562.24844,Escherichia coli,amoxicillin,Resistant,CCCD00000000,CCCD
+228,562,562.81072,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJY000000000,CAJSJY
+229,562,562.86965,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWJD000000000,CABWJD
+230,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGN000000000,CAJSGN
+231,562,562.8911,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGY000000000,CAJSGY
+232,562,562.9023,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSKA000000000,CAJSKA
+233,562,562.81143,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHE000000000,CAJSHE
+234,562,562.24201,Escherichia coli,amoxicillin,Resistant,CCCH00000000,CCCH
+235,562,562.81153,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGP000000000,CAJSGP
+236,562,562.86916,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKV000000000,CAJSKV
+237,562,562.19823,Escherichia coli strain AR_0128,amoxicillin,Resistant,CP021719,CP
+238,562,562.86991,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHX000000000,CAJSHX
+239,562,562.86864,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWIQ000000000,CABWIQ
+240,562,562.86944,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGJ000000000,CAJSGJ
+241,562,562.81105,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIC000000000,CAJSIC
+242,562,562.811,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLG000000000,CAJSLG
+243,562,562.75789,Escherichia coli strain sc17304042,amoxicillin,Resistant,JAFHPO000000000,JAFHPO
+244,562,562.112509,Escherichia coli F1-8,amoxicillin,Susceptible,BRYK00000000,BRYK
+245,562,562.89035,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSLK000000000,CAJSLK
+246,562,562.86898,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKD000000000,CAJSKD
+247,562,562.108459,Escherichia coli LP63-1,amoxicillin,Resistant,JANHKC000000000,JANHKC
+248,562,562.89092,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIU000000000,CAJSIU
+249,562,562.89035,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKN000000000,CAJSKN
+250,562,562.80285,Escherichia coli strain P31-26,amoxicillin,Resistant,JAHVGQ000000000,JAHVGQ
+251,562,562.7035,Escherichia coli strain fhi,amoxicillin,Susceptible,CCQW00000000,CCQW
+252,562,562.81144,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSLO000000000,CAJSLO
+253,562,562.8704,Escherichia coli strain 12,amoxicillin,Resistant,JAAASD000000000,JAAASD
+254,562,562.86855,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSLU000000000,CAJSLU
+255,562,562.146394,Escherichia coli 532-9,amoxicillin,Resistant,JAYXSM000000000,JAYXSM
+256,562,562.47716,Escherichia coli strain ECS9,amoxicillin,Resistant,VBQE00000000,VBQE
+257,562,562.115926,Escherichia coli KE25,amoxicillin,Resistant,JAPVBV000000000,JAPVBV
+258,562,562.81144,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSLN000000000,CAJSLN
+259,562,562.86963,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGR000000000,CAJSGR
+260,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLN000000000,CAJSLN
+261,562,562.86932,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLH000000000,CAJSLH
+262,562,562.85756,Escherichia coli strain P31-16,amoxicillin,Resistant,JAHVGM000000000,JAHVGM
+263,562,562.89094,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKH000000000,CAJSKH
+264,562,562.7519,Escherichia coli,amoxicillin,Susceptible,CDQU00000000,CDQU
+265,562,562.172669,Escherichia coli PNUSAE045104,amoxicillin,Susceptible,AAQWJV000000000,AAQWJV
+266,562,562.51679,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSID000000000,CAJSID
+267,562,562.86944,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIJ000000000,CAJSIJ
+268,562,562.110699,Escherichia coli EC457,amoxicillin,Resistant,JAODWW000000000,JAODWW
+269,562,562.81082,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHM000000000,CAJSHM
+270,562,562.81137,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIN000000000,CAJSIN
+271,562,562.86882,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKM000000000,CAJSKM
+272,562,562.90278,Escherichia coli Fecal samples,amoxicillin,Resistant,CAJSJN000000000,CAJSJN
+273,562,562.89068,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKZ000000000,CAJSKZ
+274,562,562.86882,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIA000000000,CAJSIA
+275,562,562.144655,Escherichia coli 131,amoxicillin,Resistant,CAJNWL000000000,CAJNWL
+276,562,562.89082,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGH000000000,CAJSGH
+277,562,562.81063,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGN000000000,CAJSGN
+278,562,562.90261,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSJA000000000,CAJSJA
+279,562,562.7542,Escherichia coli,amoxicillin,Resistant,CDQW00000000,CDQW
+280,562,562.89154,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIV000000000,CAJSIV
+281,562,562.89117,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIH000000000,CAJSIH
+282,562,562.86944,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIQ000000000,CAJSIQ
+283,562,562.24201,Escherichia coli,amoxicillin,Resistant,AY522431,AY
+284,562,562.90278,Escherichia coli Fecal samples,amoxicillin,Resistant,CAJSLG000000000,CAJSLG
+285,562,562.86883,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJR000000000,CAJSJR
+286,562,562.811,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGI000000000,CAJSGI
+287,562,562.89117,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGR000000000,CAJSGR
+288,562,562.28312,Escherichia coli strain YH17186,amoxicillin,Resistant,PTMG00000000,PTMG
+289,562,562.86873,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHT000000000,CAJSHT
+290,562,562.81137,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLQ000000000,CAJSLQ
+291,562,562.25156,Escherichia coli strain MOD1-EC6927,amoxicillin,Susceptible,NOOO00000000,NOOO
+292,562,562.90216,Escherichia coli Fecal samples,amoxicillin,Susceptible,CANUDR000000000,CANUDR
+293,562,562.89035,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIU000000000,CAJSIU
+294,562,562.89068,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHF000000000,CAJSHF
+295,562,562.86855,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSLP000000000,CAJSLP
+296,562,562.7542,Escherichia coli,amoxicillin,Resistant,CXXB00000000,CXXB
+297,562,562.86862,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHU000000000,CAJSHU
+298,562,562.7555,Escherichia coli,amoxicillin,Resistant,CCCJ00000000,CCCJ
+299,562,562.8102,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIG000000000,CAJSIG
+300,562,562.89178,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJU000000000,CAJSJU
+301,562,562.132024,Escherichia coli 17,amoxicillin,Susceptible,JASEZP000000000,JASEZP
+302,562,562.81054,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSIP000000000,CAJSIP
+303,562,562.81144,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJJ000000000,CAJSJJ
+304,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGZ000000000,CAJSGZ
+305,562,562.86929,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJU000000000,CAJSJU
+306,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJE000000000,CAJSJE
+307,562,562.81019,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHW000000000,CAJSHW
+308,562,562.86952,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJY000000000,CAJSJY
+309,562,562.811,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJO000000000,CAJSJO
+310,562,562.90221,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSHN000000000,CAJSHN
+311,562,562.81046,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKN000000000,CAJSKN
+312,562,562.81112,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKC000000000,CAJSKC
+313,562,562.81063,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIR000000000,CAJSIR
+314,562,562.36532,Escherichia coli strain PNUSAE019702,amoxicillin,Susceptible,RMNT00000000,RMNT
+315,562,562.86952,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGX000000000,CAJSGX
+316,562,562.86882,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLP000000000,CAJSLP
+317,562,562.89132,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJG000000000,CAJSJG
+318,562,562.110693,Escherichia coli EC563,amoxicillin,Susceptible,JAODWR000000000,JAODWR
+319,562,562.811,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGH000000000,CAJSGH
+320,562,562.79596,Escherichia coli strain STEC513 strain not applicable,amoxicillin,Susceptible,JACITO000000000,JACITO
+321,562,562.86862,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CABWJP000000000,CABWJP
+322,562,562.86991,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJN000000000,CAJSJN
+323,562,562.86965,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSHC000000000,CAJSHC
+324,562,562.135462,Escherichia coli 23-C-YW-2_Escherichia,amoxicillin,Resistant,JAWIDP000000000,JAWIDP
+325,562,562.89146,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLQ000000000,CAJSLQ
+326,562,562.89131,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKU000000000,CAJSKU
+327,562,562.24204,Escherichia coli,amoxicillin,Resistant,CXYL00000000,CXYL
+328,562,562.88012,Escherichia coli strain P31-25,amoxicillin,Resistant,JAIRDI000000000,JAIRDI
+329,562,562.28375,Escherichia coli strain CowEC281,amoxicillin,Resistant,PTQM00000000,PTQM
+330,562,562.70809,Escherichia coli strain O25:H4 / fimH30 / 131 / B2,amoxicillin,Resistant,CAJHRG000000000,CAJHRG
+331,562,562.24857,Escherichia coli,amoxicillin,Resistant,CXXK00000000,CXXK
+332,562,562.19581,Escherichia coli strain E626,amoxicillin,Susceptible,BDRN00000000,BDRN
+333,562,562.66755,Escherichia coli strain SAX-C96 strain SAX-P70,amoxicillin,Resistant,JABCVC000000000,JABCVC
+334,562,562.89082,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJZ000000000,CAJSJZ
+335,562,562.81054,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CABHPK000000000,CABHPK
+336,562,562.90288,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSIC000000000,CAJSIC
+337,562,562.34078,Escherichia coli strain S260,amoxicillin,Resistant,QWNJ00000000,QWNJ
+338,562,562.5168,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIX000000000,CAJSIX
+339,562,562.89064,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGI000000000,CAJSGI
+340,562,562.89147,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGG000000000,CAJSGG
+341,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGY000000000,CAJSGY
+342,562,562.86965,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKH000000000,CAJSKH
+343,562,562.144499,Escherichia coli 131,amoxicillin,Resistant,CAJNWL000000000,CAJNWL
+344,562,562.86932,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWHW000000000,CABWHW
+345,562,562.67327,Escherichia coli strain RS012,amoxicillin,Resistant,JADEUV000000000,JADEUV
+346,562,562.81052,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLT000000000,CAJSLT
+347,562,562.86864,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKR000000000,CAJSKR
+348,562,562.90306,Escherichia coli Fecal samples,amoxicillin,Resistant,CAJSJI000000000,CAJSJI
+349,562,562.86888,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJJ000000000,CAJSJJ
+350,562,562.86989,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJU000000000,CAJSJU
+351,562,562.86934,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWKC000000000,CABWKC
+352,562,562.8692,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKG000000000,CAJSKG
+353,562,562.90175,Escherichia coli Fecal samples,amoxicillin,Resistant,CAJSLS000000000,CAJSLS
+354,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGF000000000,CAJSGF
+355,562,562.46027,Escherichia coli strain BX2S26,amoxicillin,Resistant,SRNM00000000,SRNM
+356,562,562.7459,Escherichia coli strain 703533,amoxicillin,Resistant,JHRS00000000,JHRS
+357,562,562.122367,Escherichia coli Fecal samples,amoxicillin,Susceptible,CANUDS000000000,CANUDS
+358,562,562.7641,Escherichia coli strain 401686,amoxicillin,Resistant,CYEL00000000,CYEL
+359,562,562.86319,Escherichia coli strain 21-MO00966,amoxicillin,Resistant,JAJAKJ000000000,JAJAKJ
+360,562,562.8102,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSJE000000000,CAJSJE
+361,562,562.60316,Escherichia coli strain C63,amoxicillin,Resistant,JABBOK000000000,JABBOK
+362,562,562.81084,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSID000000000,CAJSID
+363,562,562.81083,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLK000000000,CAJSLK
+364,562,562.81084,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSLI000000000,CAJSLI
+365,562,562.86979,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSGS000000000,CAJSGS
+366,562,562.86878,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJJ000000000,CAJSJJ
+367,562,562.86991,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHO000000000,CAJSHO
+368,562,562.81049,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSJH000000000,CAJSJH
+369,562,562.122409,Escherichia coli ROAR-386 / O45:H7 / fimH54 / 95 (ST Warwick) strain ROAR-386 / O45:H7 / fimH54 / 95 (ST Warwick),amoxicillin,Resistant,CANUGC000000000,CANUGC
+370,562,562.89096,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSIV000000000,CAJSIV
+371,562,562.7024,Escherichia coli strain fhi,amoxicillin,Susceptible,CCQI00000000,CCQI
+372,562,562.81134,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSGE000000000,CAJSGE
+373,562,562.13701,Escherichia coli strain 571,amoxicillin,Resistant,MOJU00000000,MOJU
+374,562,562.108768,Escherichia coli SX-11,amoxicillin,Resistant,JANDCA000000000,JANDCA
+375,562,562.129081,Escherichia coli PK-5238,amoxicillin,Resistant,JASCZN000000000,JASCZN
+376,562,562.81059,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSKD000000000,CAJSKD
+377,562,562.89094,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKL000000000,CAJSKL
+378,562,562.89092,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CABWJR000000000,CABWJR
+379,562,562.90211,Escherichia coli 131,amoxicillin,Resistant,CAJNWL000000000,CAJNWL
+380,562,562.122367,Escherichia coli Fecal samples,amoxicillin,Susceptible,CAJSHR000000000,CAJSHR
+381,562,562.81084,Escherichia coli strain Fecal samples,amoxicillin,Susceptible,CAJSID000000000,CAJSID
+382,83333,83333.392,Escherichia coli K-12 strain C3026 strain K-12 C3026,amoxicillin,Resistant,CP014273,CP
+383,562,562.87924,Escherichia coli strain CV 96-1,amoxicillin,Susceptible,JACWCM000000000,JACWCM
+384,562,562.86991,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSHK000000000,CAJSHK
+385,562,562.88427,Escherichia coli strain DFI.1.34,amoxicillin,Resistant,JAJDLV000000000,JAJDLV
+386,562,562.89154,Escherichia coli strain Fecal samples,amoxicillin,Resistant,CAJSKR000000000,CAJSKR
+387,562,562.179682,Escherichia coli PNUSAE020244,amoxicillin,Susceptible,AARNQS000000000,AARNQS
+388,562,562.90231,Escherichia coli Fecal samples,amoxicillin,Susceptible,CANUDQ000000000,CANUDQ
+389,562,562.106158,Escherichia coli 19ZY270,amoxicillin,Resistant,JAGDHV000000000,JAGDHV
